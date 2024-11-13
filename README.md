@@ -12,14 +12,11 @@
 11. 결정트리 (불순도, 엔트로피)
 12. 텍스트 마이닝 (KoNLPy, 워드클라우드)
 
+![image](https://github.com/user-attachments/assets/05da1d1e-cac3-4165-bda4-df44f4353489)
 
 ### 라이브러리
-NumPy : 배열 연산
-
-Pandas : 데이터프레임
-
-Matplotlib : 시각화
-
-Seaborn : 시각화
-
-Scikit-learn : K-means, K-NN, Linear/Logistic Regression, Decision Tree
++NumPy : 배열 연산
++Pandas : 데이터프레임
++Matplotlib : 시각화
++Seaborn : 시각화
++Scikit-learn : K-means, K-NN, Linear/Logistic Regression, Decision Tree
