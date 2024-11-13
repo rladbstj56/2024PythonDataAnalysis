@@ -1,4 +1,4 @@
-# Python 데이터 분석 실습
+### Python 데이터 분석 실습
 1. 데이터 사이언스 개요 (데이터분석, 머신러닝)
 2. 데이터 분석 환경 (구글 코랩)
 3. 데이터 저장 및 시각화 (NumPy, Matplotlib)
@@ -13,9 +13,13 @@
 12. 텍스트 마이닝 (KoNLPy, 워드클라우드)
 
 
-# 라이브러리
+### 라이브러리
 NumPy : 배열 연산
+
 Pandas : 데이터프레임
+
 Matplotlib : 시각화
+
 Seaborn : 시각화
+
 Scikit-learn : K-means, K-NN, Linear/Logistic Regression, Decision Tree
